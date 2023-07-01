@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <h1>Practicando Redux</h1>
-      <a href="">GitHub</a>
+      <a href="https://github.com/guillezdev/Practice-with-redux">GitHub</a>
       <hr />
       <Counter />
       <hr />
